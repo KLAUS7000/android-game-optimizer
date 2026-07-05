@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Game Optimizer</string>
+    <string name="app_description">Otimize seus jogos móveis</string>
+    <string name="fps_monitor">Monitor de FPS</string>
+    <string name="graphics_quality">Qualidade Gráfica</string>
+    <string name="memory_optimization">Otimização de Memória</string>
+    <string name="device_info">Informações do Dispositivo</string>
+</resources>
